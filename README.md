@@ -7,3 +7,4 @@ Then follow these command lines:
 Make sure to be in the folder where you want to clone the project -> To set up the project locally, use command 
 # git clone [https://github.com/the-evocative-eye/MiniProject1.git](https://github.com/the-evocative-eye/MiniProject1.git) (Use GITBASH OR CMD for the same)
 Now you are good to run the project, our main file is object_tracking.py, run the script on your vscode or any other editor etc.
+![Screenshot (50)](https://github.com/the-evocative-eye/MiniProject1/assets/97403811/d6f0391d-b537-4863-9d90-acf40c15dec2)
